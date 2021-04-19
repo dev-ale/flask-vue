@@ -1,2 +1,19 @@
-setup any sass / npm / bootstomper / whatevers here, have the build scripts output to `server/static`
+# client
 
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
